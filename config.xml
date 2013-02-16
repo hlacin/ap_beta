@@ -19,10 +19,6 @@
     <preference name="orientation"      value="portrait" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
-	<preference name="fullscreen"       value="false" />
-	<preference name="stay-in-webview" value="false" />
-	
-
-    <icon src="icon.png" />
-
+    <preference name="stay-in-webview" value="false" />
+	<icon src="icon.png" />
 </widget>
