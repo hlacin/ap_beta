@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "tr.com.ajanspress.mobile2"
+        version   = "2.2.0">
+    <name>TBMM</name>
+
+    <description>
+        TBMM mobile uygulaması
+    </description>
+
+    <author href="http://www.ajanspress.com.tr" email="info@ajanspress.com.tr">
+        Ajanspress Development Team
+    </author>
+
+    <feature name="http://api.phonegap.com/1.0/device" />
+
+    <preference name="phonegap-version" value="2.2.0" />
+    <preference name="orientation"      value="portrait" />
+    <preference name="target-device"    value="universal" />
+    <preference name="fullscreen"       value="false" />
+<<<<<<< HEAD
+	<preference name="fullscreen"       value="false" />
+	<preference name="stay-in-webview" value="false" />
+	
+
+    <icon src="icon.png" />
+
+</widget>
+=======
+    <preference name="stay-in-webview" value="false" />
+	<icon src="icon.png" />
+</widget>
+>>>>>>> 9f405435d24c7252bf77b8aae5b38f72f992c2f9
