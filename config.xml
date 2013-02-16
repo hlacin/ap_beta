@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "tr.com.ajanspress.mobile2"
         version   = "2.2.0">
-    <name>TBMM</name>
+    <name>AJANSPRESS</name>
 
     <description>
-        TBMM mobile uygulaması
+        Ajanspress mobile uygulaması
     </description>
 
     <author href="http://www.ajanspress.com.tr" email="info@ajanspress.com.tr">
