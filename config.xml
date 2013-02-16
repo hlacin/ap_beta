@@ -20,5 +20,5 @@
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
     <preference name="stay-in-webview" value="false" />
-	
+	<icon src="icon.png" />
 </widget>
